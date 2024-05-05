@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "`Git`" - `Mantrov Dmitriy`
 
-### You can see my graph ![there](https://github.com/Lolokopolit1/sys-801-hw/network)
+### You can see my graph [there](https://github.com/Lolokopolit1/sys-801-hw/network)
 
 
 
